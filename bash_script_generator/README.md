@@ -13,6 +13,17 @@ the bash script to a README.txt file.  An example workflow.status file
 is also created.  In addition, if the script fails a 
 WORKFLOW.FAILED.txt will be created. 
 
+Screenshot of the workflow
+--------------------------
+
+![Image](doc/workflow.png)
+
+
+Workflow in the portal
+----------------------
+
+![Image](doc/workflow_in_portal.png)
+
 NOTES
 -----
 
